@@ -24,8 +24,8 @@ I'm Rebecca, a Software Development student from Dublin, Ireland.
 ![Github](https://img.shields.io/static/v1?label=GitHub&labelColor=6F7071&message=rebeccatraceyt&style=for-the-badge&color=73427A&logo=github)
 
 <p align="center">
-    <img src="https://github-readme-stats.rebeccatraceyt.vercel.app//api?username=rebeccatraceyt&count_private=true&show_icons=true&hide=stars,issues&theme=blueberry"/>
-    <img src="https://github-readme-stats.rebeccatraceyt.vercel.app/api/top-langs/?username=rebeccatraceyt&layout=compact&theme=blueberry" />
+    <img src="https://github-readme-stats.rebeccatraceyt.vercel.app//api?username=rebeccatraceyt&layout=compact&include_all_commits=true&show_icons=true&hide_title=true&hide=stars,issues&hide_rank=true&theme=blueberry"/>
+    <img src="https://github-readme-stats.rebeccatraceyt.vercel.app/api/top-langs/?username=rebeccatraceyt&hide_title=true&layout=compact&theme=blueberry" />
 </p>
 
 
