@@ -4,7 +4,7 @@
 
 I'm Rebecca, a Software Development student from Dublin, Ireland.
 
-- 👩🏻‍🏫  I'm currently working on my **Full-Stack Software Development** Diploma with the [Code Institute](https://codeinstitute.net/ "Code Institute Homepage") and [UCD](https://www.ucd.ie/professionalacademy/ "UCD Professional Academy Homepage")
+- 👩🏻‍🏫  I'm currently working on my **Full-Stack Software Development** Professional Diploma with the [Code Institute](https://codeinstitute.net/ "Code Institute Homepage") and [UCD](https://www.ucd.ie/professionalacademy/ "UCD Professional Academy Homepage")
 - 👩🏻‍🎓 I'm a Digital Media and Computer Science graduate from the University of Limerick
 - 🥅 2021 Goals:
     - 🛒 Create my first E-Commerce website
