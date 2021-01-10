@@ -4,14 +4,13 @@
 
 I'm Rebecca, a Software Development student from Dublin, Ireland.
 
-- 👩🏻‍🏫  I'm currently working on my **Full-Stack Software Development** Diploma with the [Code Institute](https://codeinstitute.net/ "Code Institute Homepage") and [UCD](https://www.ucd.ie/professionalacademy/ "UCD Professional Academy Homepage")
-- 👩🏻‍🎓 I'm a Digital Media and Computer Science graduate from the University of Limerick
+- 👩🏻‍🏫  I'm currently working on my **Full-Stack Software Development** Professional Diploma with the [Code Institute](https://codeinstitute.net/ "Code Institute Homepage") and [UCD](https://www.ucd.ie/professionalacademy/ "UCD Professional Academy Homepage")
+- 👩🏻‍🎓 I have a B.Sc in Digital Media and Computer Science from the University of Limerick, graduating with a 2:1
 - 🥅 2021 Goals:
     - 🛒 Create my first E-Commerce website
     - 📚 Learn more about UX/UI
     - 🎓 Complete my Full-Stack Diploma with Distinction
     - 💻 Get my first Soft Dev job
-   
     - 🌍 Go Travelling
 - ⚡ Fun fact: When I'm not at my computer, you'll find me making a mess in the kitchen and calling it **baking** 🧁
 
@@ -33,9 +32,12 @@ I'm Rebecca, a Software Development student from Dublin, Ireland.
 <p align="center">
     <strong>Get in touch</strong>
     <p align="center">
-        <a href="" alt="" target="_blank"><img src="assets/github.png" width="30px"></a>
         <a href="https://www.linkedin.com/in/rebeccatraceytimoney/" alt="Linkedin" target="_blank"><img src="assets/linkedin.png" width="30px"></a>
+        <a href="https://github.com/rebeccatraceyt" alt="GitHub" target="_blank"><img src="assets/github.png" width="30px"></a>
         <a href="https://twitter.com/DexterAtHeart" alt="Twitter" target="_blank"><img src="assets/twitter.png" width="30px"></a>
+<<<<<<< HEAD
         <a href="https://rebeccatraceyt.github.io/Rebecca.TraceyTimoney/" alt="Portfolio" target="_blank"><img src="assets/portfolio.png" width="30px"></a>
+=======
+>>>>>>> 11694bfa327aab92695f501d02368fccf8f074ac
     </p>
 </p>
