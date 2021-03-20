@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/logo.gif" alt="Hey there! I'm Rebecca">
+<img src="assets/logo.png" alt="Hey there! I'm Rebecca">
 </p>
 
 I'm Rebecca, a Software Development student from Dublin, Ireland.
@@ -35,7 +35,6 @@ I'm Rebecca, a Software Development student from Dublin, Ireland.
     <p align="center">
         <a href="https://www.linkedin.com/in/rebeccatraceytimoney/" alt="Linkedin" target="_blank"><img src="assets/linkedin.png" width="30px"></a>
         <a href="https://github.com/rebeccatraceyt" alt="GitHub" target="_blank"><img src="assets/github.png" width="30px"></a>
-        <a href="https://rebeccatraceyt.github.io/Rebecca.TraceyTimoney/" alt="Portfolio" target="_blank"><img src="assets/portfolio.png" width="30px"></a>
         <a href="https://twitter.com/DexterAtHeart" alt="Twitter" target="_blank"><img src="assets/twitter.png" width="30px"></a>
     </p>
 </p>
