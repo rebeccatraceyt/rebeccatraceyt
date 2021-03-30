@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/logo.png" alt="Hey there! I'm Rebecca">
+<img src="assets/logo.gif" alt="Hey there! I'm Rebecca">
 </p>
 
 I'm Rebecca, a Software Development student from Dublin, Ireland.
