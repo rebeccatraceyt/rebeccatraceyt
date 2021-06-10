@@ -15,23 +15,26 @@ I'm Rebecca, a Software Development student from Dublin, Ireland.
 - ⚡ Fun fact: When I'm not at my computer, you'll find me making a mess in the kitchen and calling it **baking** 🧁
 
 ### Languages:
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5%20-E34F26?logo=HTML5&logoColor=ffffff&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=ffffff&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?logo=JavaScript&logoColor=F7DF1E&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=ffdf76&style=for-the-badge)
+![Markdown](https://img.shields.io/badge/-Markdown-333333?logo=Markdown&logoColor=FFFFFF&style=for-the-badge)
 
-### Libraries:
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+### Frameworks | Libraries:
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
+![jQuery](https://img.shields.io/badge/jQuery-333333?logo=jQuery&logoColor=7ACEF4&style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-ffffff?logo=flask&logoColor=000000&style=for-the-badge)
+![Jinja](https://img.shields.io/badge/Jinja-333333?logo=jinja&logoColor=B41717&style=for-the-badge)
+![FontAwesome](https://img.shields.io/badge/FontAwesome-339AF0?logo=font-awesome&logoColor=ffffff&style=for-the-badge)
 
-### Tech: 
-![VSCode](https://img.shields.io/static/v1?label=VSCode&message=1.53-insider&style=for-the-badge&color=24bfa5&logo=visual-studio)
-[![Github](https://img.shields.io/static/v1?label=GitHub&message=rebeccatraceyt&style=for-the-badge&color=73427A&logo=github)](https://github.com/rebeccatraceyt)
+### Coding | Version Control: 
+![VSCode](https://img.shields.io/badge/VSCode-333333?logo=visual-studio&logoColor=24bfa5&style=for-the-badge)
+[![Github](https://img.shields.io/badge/GitHub-73427A?logo=github&logoColor=ffffff&style=for-the-badge)](https://github.com/rebeccatraceyt)
 
 <p align="center">
-    <img src="https://github-readme-stats.rebeccatraceyt.vercel.app//api?username=rebeccatraceyt&layout=compact&include_all_commits=true&show_icons=true&hide_title=true&hide=stars,issues&hide_rank=true&theme=blueberry"/>
-    <img src="https://github-readme-stats.rebeccatraceyt.vercel.app/api/top-langs/?username=rebeccatraceyt&hide_title=true&layout=compact&theme=blueberry" />
+    <img src="https://github-readme-stats.rebeccatraceyt.vercel.app//api?username=rebeccatraceyt&layout=compact&include_all_commits=true&show_icons=true&hide_title=true&hide=stars,issues&line_height=31&hide_rank=false&theme=react"/>
+    <img src="https://github-readme-stats.rebeccatraceyt.vercel.app/api/top-langs/?username=rebeccatraceyt&layout=compact&hide_title=false&theme=react&langs_count=4" />
 </p>
 
 
