@@ -14,13 +14,18 @@ I'm Rebecca, a Software Development student from Dublin, Ireland.
     - 🌍 Go Travelling
 - ⚡ Fun fact: When I'm not at my computer, you'll find me making a mess in the kitchen and calling it **baking** 🧁
 
-### Languages I know:
+### Languages:
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Tech I use: 
+### Libraries:
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### Tech: 
 ![VSCode](https://img.shields.io/static/v1?label=VSCode&message=1.53-insider&style=for-the-badge&color=24bfa5&logo=visual-studio)
 [![Github](https://img.shields.io/static/v1?label=GitHub&message=rebeccatraceyt&style=for-the-badge&color=73427A&logo=github)](https://github.com/rebeccatraceyt)
 
