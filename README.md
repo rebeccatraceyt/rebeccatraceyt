@@ -15,14 +15,14 @@ I'm Rebecca, a Software Development student from Dublin, Ireland.
 - ⚡ Fun fact: When I'm not at my computer, you'll find me making a mess in the kitchen and calling it **baking** 🧁
 
 ### Languages I know:
-![HTML](https://img.shields.io/static/v1?label=HTML&labelColor=6F7071&style=for-the-badge&color=E34F26&logo=html5)
-![CSS](https://img.shields.io/static/v1?label=CSS&labelColor=6F7071&style=for-the-badge&color=1572B6&logo=css3)
-![JavaScript](https://img.shields.io/static/v1?label=JavaScript&labelColor=6F7071&style=for-the-badge&color=F7DF1E&logo=javascript)
-
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Tech I use: 
-![VSCode](https://img.shields.io/static/v1?label=VSCode&labelColor=6F7071&message=1.53-insider&style=for-the-badge&color=24bfa5&logo=visual-studio)
-[![Github](https://img.shields.io/static/v1?label=GitHub&labelColor=6F7071&message=rebeccatraceyt&style=for-the-badge&color=73427A&logo=github)](https://github.com/rebeccatraceyt)
+![VSCode](https://img.shields.io/static/v1?label=VSCode&message=1.53-insider&style=for-the-badge&color=24bfa5&logo=visual-studio)
+[![Github](https://img.shields.io/static/v1?label=GitHub&message=rebeccatraceyt&style=for-the-badge&color=73427A&logo=github)](https://github.com/rebeccatraceyt)
 
 <p align="center">
     <img src="https://github-readme-stats.rebeccatraceyt.vercel.app//api?username=rebeccatraceyt&layout=compact&include_all_commits=true&show_icons=true&hide_title=true&hide=stars,issues&hide_rank=true&theme=blueberry"/>
