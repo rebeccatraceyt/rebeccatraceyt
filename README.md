@@ -29,8 +29,9 @@ I'm Rebecca, a Software Development student from Dublin, Ireland.
 ![FontAwesome](https://img.shields.io/badge/FontAwesome-339AF0?logo=font-awesome&logoColor=ffffff&style=for-the-badge)
 
 ### Coding | Version Control: 
-![VSCode](https://img.shields.io/badge/VSCode-333333?logo=visual-studio&logoColor=24bfa5&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-333333?logo=git&logoColor=F05032&style=for-the-badge)
 [![Github](https://img.shields.io/badge/GitHub-73427A?logo=github&logoColor=ffffff&style=for-the-badge)](https://github.com/rebeccatraceyt)
+![VSCode](https://img.shields.io/badge/VSCode-333333?logo=visual-studio&logoColor=24bfa5&style=for-the-badge)
 
 <p align="center">
     <img src="https://github-readme-stats.rebeccatraceyt.vercel.app//api?username=rebeccatraceyt&layout=compact&include_all_commits=true&show_icons=true&hide_title=true&hide=stars,issues&line_height=31&hide_rank=false&theme=react"/>
