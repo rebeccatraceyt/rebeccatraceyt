@@ -5,13 +5,22 @@
 I'm Rebecca, a Full Stack Developer and Tutor from Dublin, Ireland.
 
 - 👩🏻‍🏫  I have a **Full-Stack Software Development** Professional Diploma with the [Code Institute](https://codeinstitute.net/ "Code Institute Homepage") and [UCD](https://www.ucd.ie/professionalacademy/ "UCD Professional Academy Homepage"), graduating with Distinction
+
 - 👩🏻‍🎓 I have a B.Sc in Digital Media and Computer Science from the University of Limerick, graduating with a 2:1
+
 - 🥅 2021 Goals:
     - 🛒 Create my first E-Commerce website ✔️
     - 📚 Learn more about UX/UI ✔️
     - 🎓 Complete my Full-Stack Diploma with Distinction ✔️
     - 💻 Get my first Soft Dev job ✔️
     - 🌍 Go Travelling ❌
+
+- 🥅 2022 Goals:
+    - 🌍 Go Travelling
+    - 👩🏻‍🏫 Learn more about Sass
+    - 🎓 Complete Udemy React certificate
+    - 🌍 Go Travelling (listed twice to double my chances)
+
 - ⚡ Fun fact: When I'm not at my computer, you'll find me making a mess in the kitchen and calling it **baking** 🧁
 
 
