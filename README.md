@@ -2,7 +2,7 @@
 <img src="assets/logo.gif" alt="Hey there! I'm Rebecca">
 </p>
 
-I'm Rebecca, a Full Stack Developer and Tutor from Dublin, Ireland.
+I'm Rebecca, a Front End Developer and Tutor from Dublin, Ireland.
 
 - 👩🏻‍🏫  I have a **Full-Stack Software Development** Professional Diploma with the [Code Institute](https://codeinstitute.net/ "Code Institute Homepage") and [UCD](https://www.ucd.ie/professionalacademy/ "UCD Professional Academy Homepage"), graduating with Distinction
 
