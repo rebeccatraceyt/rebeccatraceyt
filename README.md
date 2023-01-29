@@ -4,27 +4,28 @@
 
 I'm Rebecca, a Front End Developer and Tutor from Dublin, Ireland.
 
-- 👩🏻‍🏫  I have a **Full-Stack Software Development** Professional Diploma with the [Code Institute](https://codeinstitute.net/ "Code Institute Homepage") and [UCD](https://www.ucd.ie/professionalacademy/ "UCD Professional Academy Homepage"), graduating with Distinction
+- 👩🏻‍🏫 I am currently enrolled in the Professional Diploma in UX Design course in the [UX Design Institute](https://www.uxdesigninstitute.com/ "UX Design Institute Homepage"), graduating in June 2023.
+
+- 👩🏻‍🎓 I have a **Full-Stack Software Development** Professional Diploma with the [Code Institute](https://codeinstitute.net/ "Code Institute Homepage") and [UCD](https://www.ucd.ie/professionalacademy/ "UCD Professional Academy Homepage"), graduating with Distinction
 
 - 👩🏻‍🎓 I have a B.Sc in Digital Media and Computer Science from the University of Limerick, graduating with a 2:1
 
-- 🥅 2021 Goals:
-    - 🛒 Create my first E-Commerce website ✔️
-    - 📚 Learn more about UX/UI ✔️
-    - 🎓 Complete my Full-Stack Diploma with Distinction ✔️
-    - 💻 Get my first Soft Dev job ✔️
-    - 🌍 Go Travelling ❌
-
-- 🥅 2022 Goals:
+- 🥅 2023 Goals:
+    - 🎓 Complete my UX Design Diploma with Distinction
     - 🌍 Go Travelling
-    - 📚 Learn more about Sass
-    - 🎓 Complete Udemy React certificate
-    - 🌍 Go Travelling (listed twice to double my chances)
+    - 📚 Learn more about React
+    - 💻 Learn more about Accessibility in Web Design
+    - 🎓 Take on a UI design course
 
-- ⚡ Fun fact: When I'm not at my computer, you'll find me making a mess in the kitchen and calling it **baking** 🧁
+- ⚡ Fun fact: When I'm not at my computer, you'll find me making a mess in the kitchen and calling it ***baking*** 🧁
 
 
-### OS:
+
+<hr>
+
+# Tech Stack
+
+### OS
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=F0F0F0)
 
@@ -59,20 +60,27 @@ I'm Rebecca, a Front End Developer and Tutor from Dublin, Ireland.
 
 ### Cloud Platforms: 
 ![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=ffffff&style=for-the-badge)
+![Render](https://img.shields.io/badge/Render-5aedc5?logo=render&logoColor=000000&style=for-the-badge)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazon-aws&logoColor=ffffff&style=for-the-badge)
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?logo=mongodb&logoColor=ffffff&style=for-the-badge)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-0171BA?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAUCAYAAACaq43EAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAbGVYSWZNTQAqAAAACAAEARIAAwAAAAEAAQAAARoABQAAAAEAAAA+ARsABQAAAAEAAABGh2kABAAAAAEAAABOAAAAAAAAAEgAAAABAAAASAAAAAEAAqACAAQAAAABAAAAHqADAAQAAAABAAAAFAAAAAAG/eDcAAAACXBIWXMAAAsTAAALEwEAmpwYAAACkmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNi4wLjAiPgogICA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPgogICAgICA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIgogICAgICAgICAgICB4bWxuczp0aWZmPSJodHRwOi8vbnMuYWRvYmUuY29tL3RpZmYvMS4wLyIKICAgICAgICAgICAgeG1sbnM6ZXhpZj0iaHR0cDovL25zLmFkb2JlLmNvbS9leGlmLzEuMC8iPgogICAgICAgICA8dGlmZjpZUmVzb2x1dGlvbj43MjwvdGlmZjpZUmVzb2x1dGlvbj4KICAgICAgICAgPHRpZmY6WFJlc29sdXRpb24+NzI8L3RpZmY6WFJlc29sdXRpb24+CiAgICAgICAgIDx0aWZmOk9yaWVudGF0aW9uPjE8L3RpZmY6T3JpZW50YXRpb24+CiAgICAgICAgIDxleGlmOlBpeGVsWERpbWVuc2lvbj41MDwvZXhpZjpQaXhlbFhEaW1lbnNpb24+CiAgICAgICAgIDxleGlmOkNvbG9yU3BhY2U+MTwvZXhpZjpDb2xvclNwYWNlPgogICAgICAgICA8ZXhpZjpQaXhlbFlEaW1lbnNpb24+MzQ8L2V4aWY6UGl4ZWxZRGltZW5zaW9uPgogICAgICA8L3JkZjpEZXNjcmlwdGlvbj4KICAgPC9yZGY6UkRGPgo8L3g6eG1wbWV0YT4KVCJOfgAAA/dJREFUSA2dlk1oXFUUx+e9N5+O06bjELMpEiUUhLYBayIYhNioYKELLW6EZpXaRTfdhNAPCG03uhBBRBei+AXBRUlEUKGKbWKxza7gwra0lCo0JDA6TDqfb56///Xe8dVktPTAn/+55557zrnn3nl3vMT/SBRFged5odzQHwvDcCwIgj0M+0G70+nc8H3/IvoSfjV8PHRUrwM/mCipVsLbSfgBvA42FQr4lYkplwndrHXj+2a3EN5L0BVYcg2cBBPgqWazOQIfoKiP8QnRJfNgmxLB/n0ntAvS4lar9QKL20AyA3K9AjE3RPKv5YhcBFtsLLX+vwXnABhHeDtYA5JX3Er0JJCfb1l60s2z+48YSz6VDe69ayY95wA/BHYQYA6WTNsAafSe1TPn7oMKWwSSl91a+N61THYN6JO064pWWPkFViHdTihQL8HP7BweB5KvnC+6NrfxwrHD9+SJdMDnYRidgcdjCzcucpMxZo2OQEkugVq73Z6Cnwam5fA/cUh6GkPEbi9DT8biJOzCwbgNH1M9vOH8sLmWf4gelyUGzyoO7Cf4SQxrlqQ3oEftRLLRaOxk/L2d+w1+1c6lxE6wq4huAU6HJ8A0eIPYC7By6BfyklnLbt+SEZmUAfbq9foOnK7LyE+qIZaw+4PWR+3UUcyYIHYdYxVh4OyOsb8GlPxOtVodUKKfQZVkT8gJXRdJgb8AStzCOaLA3xk+DkYYu1urQAu2a/Fdm67gmwVJwcaeRZdMy7kIquxmXZOI+862/x4mIgwyRoyrJDqKPkahzVqt1kbfz7f7EKxLmaaId4m1CD+DrQ4UR2slXwJ9w19U4hXQl8/nt8Jx6e7AGrULPQJn7dgnaEAnqKUzRyJ1YjmVSh3h0RhFv0CzZldXVwv4mUeGdRXWl0HJx+EHDBnwvA1o2oTdDu8h/ebzcQu79ZPJpM51kAS7KpVKyBk20+l0CttzpVJJx2ZuOoX04/MI629TnK+z1AU6RfuGmKjFA/9LV8s2VERrdRd+ZPd/UIieUUmC3f8E/8ka0+ogSB1WPDa1oHZdBcdAiSq/VZWapKDuF01jK5vZzBTJ88TQRXK+SmAeCgw57G/6fmIKfZnaPpOjkr8NF+HjTJxH3weXgUSHmGJOl8SdlbHjp+ABrW5lMhll1NOoSyY/HdkaZ6+v1jnWb4Gvwa+DhpLKEfJO4MhHPZpPJJq30M1ZEjTL7nWrdTYFYLaUzWYzuVwuqc7Q4gHsIRNbC4WCjz3LWKLNPAwa6O/Ao0BvetB9zhioiG9wEPR7/gTS+9vUGFGwCdr0Hfw+O+0jaRPOYRsul8vnisWiit/N2d7Frm7mOYKbjPU3yYjNE/4F0uOl93L79mwAAAAASUVORK5CYII=&logoColor=ffffff&style=for-the-badge)
+
 
 ### Design:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=ffffff&style=for-the-badge)
 ![Balsamiq](https://img.shields.io/badge/Balsamiq-C61F2E?logo=data:image/png;base64,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&logoColor=ffffff&style=for-the-badge)
 ![Procreate](https://img.shields.io/badge/Procreate-6E0A5C?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABmJLR0QA/wD/AP+gvaeTAAAEGUlEQVRoge3aTchVRRzH8f/RHg3NzIKQENxFZkWgkFQYlhWF5nttdNFColIJWwRFhiUGkREt3NWiVSBhKWEtrIgSQ3u18CWLoFcpCrWsR/P5tDhzeU7X+3LufZ7z3EXPbzP3zJmZ8/3d+c+cmeFEjGpUo2qlrEwhjIuIpRGxOCJmRcRlETGhIqZTEfFDRHwcEdsjYnuWZaeH3CqW4xu909dYOhQDY/FsocFPsQZXoKreCEzADKxNz6zpGYzppsGaib+wuqtGhiiMwX34u2am0waWFUzMrYizE56bCmaWlK00LsUlrK6YsRXHNBzD+nR9f2I6Kp982jZwT2FMjHg4NeB4J12Pxecpb0V9+Uagi1P6UpZlA1XCttGslE6PiMiy7GxEvJjyFjesURQOJ9czquFrL5yPHxPHiUL+zJR3qEwjJ1PhCyqlbc2woTDt/l7In1RvrlUjoFLS1s+fh38KRo51xddLI7gDfySET1K6twxfz2alouQvvoci4vWImBgRByNiR7p9sNtGR7RHcDX2FkLpV1yJ7el6TVd8I2UE1+JlnC6Y+AmzMBF/4iymdcVXpRGMxyLsdq72YHoqtyrlvd8133AbwcVYiW0Gp/aifsN6jE3l+3Ak3bu3p0YwHevSP3+mAXwtjDbiorq6j6X7R3DeiBtBhjvxdhNwOJF6Zjn6GrQxVz5mBjB/SHzdGMF1+KgJ/HfYitsxvkn9cXjC4MDfMmS+TozI4/l5+exS1FE8hdloei4gf3+s9N+t9E4NQqoyI7gE79YZeA9LtFn+y8fQ48lwUTua9VolRjDF4BICPsP1LcpPTaG1ER806MEBbJJmrhExIo/nPalYPx5VGLjyQT9bPvu8KZ+dWukAbmgLVoGR51KRk7i1kH+pfPldHy7N9IV8fDQdD5UZwRx5GJyWQkkeZlvkS4p2+hYvYE4n8FUY+TDd3pyu78YvLcCP4zU8iMu7hR9WI5ifbv0s36ltbQA+gH14EjfqMGxGysi2dGsDXq0zsE9+XDN1uMHL8pUqKD8MqC343igY2I3ZlVGX5CtdEAvqeqAfqyqj7ZAvIqJsDM8r/O6PiEVZlr01LGRVSb5ChUmFvF2F3nikh2wdHQfVDuhmFvJqi7rvtVkLVSlclTjOOZBotLjbn9LifmBKSl/Jsqx/uAE70G0p3de2JFYk1wcMbj9PpbymC8OqJT/E/jJxLCtToQ9fpQoPpLxdaart5en82sR0WIPdZbNKi+Rv6X7cXDFjGZ5bEssAFnZa+enCO2ONEnuF4VYKp3WJATZ108gYbE7/ghSf6+Ung5Mr4K49dzKuwcOFMVHbeHUf2rirMCX3QoewoB1n2Q8G+iJiYQx+MDAtIi7s+t9preORfzCwP/JD7Z1Zlp2p6FmjGtX/Rv8C2uRoOOzERskAAAAASUVORK5CYII=&logoColor=ffffff&style=for-the-badge)
+![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=ffffff&style=for-the-badge)
+
 
 ### Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-081324?logo=data:image/png;data:image/png;base64,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&logoColor=000&style=for-the-badge)](https://rebeccatraceyt.github.io/RebeccaTraceyTimoney/)
 [![Linkedin](https://img.shields.io/badge/Rebecca%20Tracey%20Timoney-0A66C2?logo=linkedin&logoColor=ffffff&style=for-the-badge)](https://www.linkedin.com/in/rebeccatraceytimoney/)
 [![Twitter](https://img.shields.io/badge/DexterAtHeart-1DA1F2?logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/DexterAtHeart)
+[![CodePen](https://img.shields.io/badge/rebeccatraceyt-000000?logo=CodePen&logoColor=ffffff&style=for-the-badge)](https://codepen.io/rebeccatraceyt)
+
 
 <hr>
+
 
 ![](https://hit.yhype.me/github/profile?user_id=71783662)
