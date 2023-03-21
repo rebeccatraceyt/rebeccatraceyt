@@ -1,8 +1,8 @@
 <p align="center">
-<img src="assets/logo.gif" alt="Hey there! I'm Rebecca">
+<img src="assets/portfolio-img.png" alt="Hello World, I'm Rebecca!">
 </p>
 
-I'm Rebecca, a Front End Developer and Tutor from Dublin, Ireland.
+Hi 👋 I'm Rebecca, a Front End Developer and Tutor from Dublin, Ireland.
 
 - 👩🏻‍🏫 I am currently enrolled in the Professional Diploma in UX Design course in the [UX Design Institute](https://www.uxdesigninstitute.com/ "UX Design Institute Homepage"), graduating in June 2023.
 
