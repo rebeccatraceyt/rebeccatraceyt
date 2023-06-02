@@ -86,46 +86,26 @@ I'm a UX Engineer and Software Development Tutor from Dublin, Ireland.
 
 # Project Work
 
-### Development:
+## Kryan Live
+| ⚡ [Live Site](https://rebeccatraceyt.github.io/KryanLive/) &nbsp; &nbsp;  \| &nbsp; &nbsp;  💻 [GitHub Repo](https://github.com/rebeccatraceyt/KryanLive)| |
+|:---	|---:	|
+| This comprehensive website was designed for the artist known as Kryan to create an online presence allowing members of the media, as well as new and current fans, to find out relevant information and to get to know Kryan. | ![Kryan Live](assets/kryan.png) |
 
-<div>
-    <span style="font-size:16px; font-weight: 500">Kryan Live</span> </br>
-    <a href="https://rebeccatraceyt.github.io/KryanLive/">Live Site</a> | <a href="https://github.com/rebeccatraceyt/KryanLive">GitHub Repo<a>
-    <div style="display:flex; margin: 4px 0 32px">
-        <div>This comprehensive website was designed for the artist known as Kryan to create an online presence allowing members of the media, as well as new and current fans, to find out relevant information and to get to know Kryan.</div>
-        <div><img src="assets/kryan.png"></div>
-    </div>
-</div>
 
-<div>
-    <span style="font-size:16px; font-weight: 500">Blank!</span> </br>
-    <a href="https://rebeccatraceyt.github.io/WhatTheBlank/">Live Site</a> | 
-    <a href="https://github.com/rebeccatraceyt/WhatTheBlank">GitHub Repo<a>
-    <div style="display:flex; margin: 8px 0 36px">
-        <div><img src="assets/blank.png"></div>
-        <div>A web-based interactive fill-in-the-blank game, with a musical twist. With a wide variety of music categories to choose from, the user can test their memory in their favourite music genre, using a fun and intuitive user interface.</div>
-    </div>
-</div>
+## Blank!
+| ⚡ [Live Site](https://rebeccatraceyt.github.io/WhatTheBlank/) &nbsp; &nbsp;  \| &nbsp; &nbsp;  💻 [GitHub Repo](https://github.com/rebeccatraceyt/WhatTheBlank) | |
+|:---	|---:	|
+| A web-based interactive fill-in-the-blank game, with a musical twist. With a wide variety of music categories to choose from, the user can test their memory in their favourite music genre, using a fun and intuitive user interface. | ![Blank!](assets/blank.png) |
 
-<div>
-    <span style="font-size:16px; font-weight: 500">Bake It Til You Make It</span> </br>
-    <a href="https://bake-it-til-you-make-it.herokuapp.com/">Live Site</a> | 
-    <a href="https://github.com/rebeccatraceyt/bake-it-til-you-make-it">GitHub Repo<a>
-        <div style="display:flex; margin: 4px 0 36px">
-        <div>A community-based web application for those who love the art of baking, where users can search and share their favourite creations. Inspired by the old-school baking book (full to the brim with loose paper and haphazard notes)!</div>
-        <div><img src="assets/bake.png"></div>
-    </div>
-</div>
+## Bake It Til You Make It
+| ⚡ [Live Site](https://bake-it-til-you-make-it.herokuapp.com/) &nbsp; &nbsp;  \| &nbsp; &nbsp;  💻 [GitHub Repo](https://github.com/rebeccatraceyt/bake-it-til-you-make-it)| |
+|:---	|---:	|
+| A community-based web application for those who love the art of baking, where users can search and share their favourite creations. Inspired by the old-school baking book (full to the brim with loose paper and haphazard notes)! | ![Bake It Til You Make It](assets/bake.png) |
 
-<div>
-    <span style="font-size:16px; font-weight: 500">Delphin Lifesaving Club</span> </br>
-    <a href="https://delphin-lifesavingclub.herokuapp.com/">Live Site</a> | 
-    <a href="https://github.com/rebeccatraceyt/delphin_lifesavingclub">GitHub Repo<a>
-        <div style="display:flex; margin: 8px 0 32px">
-        <div><img src="assets/delphin.png"></div>
-        <div>The Delphin Lifesaving Club online shop provides a virtual shopping environment for club members (future and current) to browse and purchase Delphin products, including class credits and club apparel, and provide club information.</div>
-    </div>
-</div>
+## Delphin Lifesaving Club
+| ⚡ [Live Site](https://delphin-lifesavingclub.herokuapp.com/) &nbsp; &nbsp;  \| &nbsp; &nbsp;  💻 [GitHub Repo](https://github.com/rebeccatraceyt/delphin_lifesavingclub)| |
+|:---	|---:	|
+| The Delphin Lifesaving Club online shop provides a virtual shopping environment for club members (future and current) to browse and purchase Delphin products, including class credits and club apparel, and provide club information.| ![Delphin Lifesaving Club](assets/delphin.png) |
 
 
 <hr>
