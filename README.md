@@ -6,17 +6,19 @@ Hi, I'm Rebecca 👋
 
 I'm a UX Engineer and Software Development Tutor from Dublin, Ireland.
 
-- 👩🏻‍🏫 I am currently enrolled in the Professional Diploma in UX Design course in the [UX Design Institute](https://www.uxdesigninstitute.com/ "UX Design Institute Homepage"), graduating in August 2023.
+- 👩🏻‍🏫 I am currently enrolled in the Professional Certificate in UI Design in the [UX Design Institute](https://www.uxdesigninstitute.com/ "UX Design Institute Homepage"), graduating in January 2024.
+
+- 👩🏻‍🎨 I have a Professional Diploma in UX Design in the [UX Design Institute](https://www.uxdesigninstitute.com/ "UX Design Institute Homepage"), graduating in August 2023.
 
 - 👩🏻‍💻 I have a **Full-Stack Software Development** Professional Diploma with the [Code Institute](https://codeinstitute.net/ "Code Institute Homepage") and [UCD](https://www.ucd.ie/professionalacademy/ "UCD Professional Academy Homepage"), graduating with Distinction
 
 - 🎓 I have a B.Sc in Digital Media and Computer Science from the University of Limerick, graduating with a 2:1
 
 - 🥅 2023 Goals:
-    - 🎓 Complete my UX Design Diploma with Distinction
-    - 🌍 Go Travelling
-    - 📚 Learn more about React
-    - 💻 Learn more about Accessibility in Web Design
+    - 🎓 Complete my UX Design Diploma with Distinction ✅
+    - 🌍 Go Travelling ✅
+    - 📚 Learn more about React ✅
+    - 💻 Learn more about Accessibility in Web Design ✅
 
 - ⚡ Fun fact: When I'm not at my computer, you'll find me making a mess in the kitchen and calling it ***baking*** 🧁
 
@@ -29,6 +31,7 @@ I'm a UX Engineer and Software Development Tutor from Dublin, Ireland.
 ### OS
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=F0F0F0)
+![Ubuntu](https://img.shields.io/badge/ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=F0F0F0)
 
 ### Languages:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=ffffff&style=for-the-badge)
@@ -46,8 +49,9 @@ I'm a UX Engineer and Software Development Tutor from Dublin, Ireland.
 ![Jinja](https://img.shields.io/badge/Jinja-B41717?logo=jinja&logoColor=ffffff&style=for-the-badge)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=ffffff&style=for-the-badge)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=ffffff&style=for-the-badge)
+![HubL](https://img.shields.io/badge/HubL-FF7A59?logo=hubspot&logoColor=ffffff&style=for-the-badge)
 
-### Coding | Version Control: 
+### IDE | Version Control: 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=ffffff&style=for-the-badge)
 [![Github](https://img.shields.io/badge/GitHub-73427A?logo=github&logoColor=ffffff&style=for-the-badge)](https://github.com/rebeccatraceyt)
 ![VSCode](https://img.shields.io/badge/VSCode-24bfa5?logo=visual-studio&logoColor=ffffff&style=for-the-badge)
@@ -76,7 +80,7 @@ I'm a UX Engineer and Software Development Tutor from Dublin, Ireland.
 
 
 ### Socials:
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-081324?logo=data:image/png;data:image/png;base64,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&logoColor=000&style=for-the-badge)](https://rebeccatraceyt.github.io/RebeccaTraceyTimoney/) -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-fff?logo=data:image/png;base64,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&logoColor=4A7B82&style=for-the-badge)](https://rebeccatraceytimoney.com/)
 [![Linkedin](https://img.shields.io/badge/Rebecca%20Tracey%20Timoney-0A66C2?logo=linkedin&logoColor=ffffff&style=for-the-badge)](https://www.linkedin.com/in/rebeccatraceytimoney/)
 [![Twitter](https://img.shields.io/badge/DexterAtHeart-1DA1F2?logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/DexterAtHeart)
 [![CodePen](https://img.shields.io/badge/rebeccatraceyt-000000?logo=CodePen&logoColor=ffffff&style=for-the-badge)](https://codepen.io/rebeccatraceyt)
