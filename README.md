@@ -14,11 +14,11 @@ I'm a UX Engineer and Software Development Tutor from Dublin, Ireland.
 
 - 🎓 I have a B.Sc in Digital Media and Computer Science from the University of Limerick, graduating with a 2:1
 
-- 🥅 2023 Goals:
-    - 🎓 Complete my UX Design Diploma with Distinction ✅
-    - 🌍 Go Travelling ✅
-    - 📚 Learn more about React ✅
-    - 💻 Learn more about Accessibility in Web Design ✅
+- 🥅 2024 Goals:
+    - 🎓 Complete my UI Design Certificate with Distinction
+    - 🌍 Go Travelling
+    - 🚀 Become a Figma superuser
+    - 💻 Learn how to enhance Accessibility in Web Design
 
 - ⚡ Fun fact: When I'm not at my computer, you'll find me making a mess in the kitchen and calling it ***baking*** 🧁
 
