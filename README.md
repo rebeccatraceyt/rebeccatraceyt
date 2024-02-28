@@ -6,16 +6,16 @@ Hi, I'm Rebecca 👋
 
 I'm a UX Engineer and Software Development Tutor from Dublin, Ireland.
 
-- 👩🏻‍🏫 I am currently enrolled in the Professional Certificate in UI Design in the [UX Design Institute](https://www.uxdesigninstitute.com/ "UX Design Institute Homepage"), graduating in January 2024.
+- 👩‍🎨 I have Professional Certificate in UI Design in the [UX Design Institute](https://www.uxdesigninstitute.com/ "UX Design Institute Homepage"), graduating in January 2024.
 
-- 👩🏻‍🎨 I have a Professional Diploma in UX Design in the [UX Design Institute](https://www.uxdesigninstitute.com/ "UX Design Institute Homepage"), graduating in August 2023.
+- 👩‍🔬 I have a Professional Diploma in UX Design in the [UX Design Institute](https://www.uxdesigninstitute.com/ "UX Design Institute Homepage"), graduating in August 2023.
 
 - 👩🏻‍💻 I have a **Full-Stack Software Development** Professional Diploma with the [Code Institute](https://codeinstitute.net/ "Code Institute Homepage") and [UCD](https://www.ucd.ie/professionalacademy/ "UCD Professional Academy Homepage"), graduating with Distinction
 
 - 🎓 I have a B.Sc in Digital Media and Computer Science from the University of Limerick, graduating with a 2:1
 
 - 🥅 2024 Goals:
-    - 🎓 Complete my UI Design Certificate with Distinction
+    - 🎓 Complete my UI Design Certificate ✅
     - 🌍 Go Travelling
     - 🚀 Become a Figma superuser
     - 💻 Learn how to enhance Accessibility in Web Design
